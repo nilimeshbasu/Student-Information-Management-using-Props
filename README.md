@@ -1,5 +1,7 @@
 # 🎓 Student Information Portal (React Assignment 2)
 
+🚀 **[View Live Demo](https://studentdatashort.vercel.app)**
+
 A responsive React application built to manage and display student information using **Props**, **Component Reusability**, and **State Management**.
 
 ---
